@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  CDlg1.cpp
+  CDlg2.cpp
+  CDlg3.cpp
+g:\c++\mfc\计算器1.0\mfcapplication9 6_13\mfcapplication9\cdlg3.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++\mfc\计算器1.0\mfcapplication9 6_13\mfcapplication9\cdlg3.cpp(190): warning C4244: “+=”: 从“double”转换到“long”，可能丢失数据
+g:\c++\mfc\计算器1.0\mfcapplication9 6_13\mfcapplication9\cdlg3.cpp(250): warning C4244: “+=”: 从“double”转换到“long”，可能丢失数据
+  MFCApplication9.cpp
+  MFCApplication9Dlg.cpp
+  TabSheet.cpp
+  正在生成代码...
+  MFCApplication9.vcxproj -> G:\C++\MFC\计算器1.0\MFCApplication9 6_13\Debug\MFCApplication9.exe
